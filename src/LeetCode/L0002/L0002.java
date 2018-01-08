@@ -1,4 +1,4 @@
-package LeetCode.L2;
+package LeetCode.L0002;
 
 /*
 2. Add Two Numbers

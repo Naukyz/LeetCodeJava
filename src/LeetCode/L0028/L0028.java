@@ -1,4 +1,4 @@
-package LeetCode.L28;
+package LeetCode.L0028;
 
 /*
 28. Implement strStr()
