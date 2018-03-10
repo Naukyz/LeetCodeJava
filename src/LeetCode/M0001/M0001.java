@@ -4,6 +4,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 // n重循环的递归写法
+/*
+ * 设有字母 abc 输出由这些字母组成的字符串的所有可能 字符串的长度为n
+ * 例如 n 为 2  输出 aa  ab  ac  ba  bb  bc  ca  cb  cc  9
+ * */
 
 public class M0001 {
 
